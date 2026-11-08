@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "gumbel-softmax-layer-skipping-2024",
+  "versions": [
+    {
+      "commit": "3f5eb5ce48c730452ffd04a6cffba2bea1317c01",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:38:33.330047+00:00"
+    }
+  ]
+}
